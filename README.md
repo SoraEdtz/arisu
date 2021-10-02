@@ -26,7 +26,7 @@
 #DEPLOY
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SoraEdtz/arisu)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SoraEdtz/arisu)
 
 
 # Requirements
